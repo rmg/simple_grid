@@ -1,0 +1,2 @@
+module SimpleGrid
+end
